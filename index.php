@@ -11,6 +11,7 @@
 	<p>Jumlah Anggota : 3 Orang</p>
 	<p>Kelas : Informatika A</p>
 	<p>Universitas Bengkulu</p><p>nah wil berhasil</p>
+	<p>perubahan yang akan dilakukan oleh gilang</p>
 
 
 
