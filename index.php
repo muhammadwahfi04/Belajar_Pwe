@@ -9,6 +9,7 @@
 	<p>Nama Admin : Muhammad Wahfi Udin</p>
 	<p>Nama Anggota : M Jumli Gazali dan Gilang Ramadhan</p>
 	<p>Kelas : Informatika A</p>
+	<p>Universitas Bengkulu</p>
 
 </body>
 </html>
